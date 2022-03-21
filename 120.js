@@ -26,11 +26,11 @@ All变量适用
 请求太频繁会被黑ip
 过10分钟再执行
 
-cron:30 1 21-31/4 3 *
+cron:30 1 21-31/3 4 *
 ============Quantumultx===============
 [task_local]
 #雅诗兰黛奢雅邀请入会有礼
-30 1 21-31/4 3 * https://raw.githubusercontent.com/smiek2121/scripts/master/gua_opencard120.js, tag=雅诗兰黛奢雅邀请入会有礼, enabled=true
+30 1 21-31/3 3 * https://raw.githubusercontent.com/smiek2121/scripts/master/gua_opencard120.js, tag=雅诗兰黛奢雅邀请入会有礼, enabled=true
 
 */
 let guaopencard = "true"
